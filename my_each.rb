@@ -8,6 +8,6 @@ while i < array.length
  
     array
   else
-    puts "Hey! No block was given!"
+     "Hey! No block was given!"
   end
 end
